@@ -72,6 +72,63 @@
 
 ![](./img/ArcGis-10b-21.png)
 
+##### 11. Select subtitle and right-click it > Nudge > Nudge Up
+##### Kepp Nudging until the subtitle is as close to the title as possible. (You can also use the Up Arrow key)
+
+![](./img/ArcGis-10b-22.png)
+
+##### 12. Similarly, nudge the description rectangle up.
+
+##### 13. Select All three elements by holding down Ctrl. Right-click > Align > Align Center
+
+![](./img/ArcGis-10b-23.png)
+
+![](./img/ArcGis-10b-24.png)
+
+##### 14. Right-click > Group
+
+![](./img/ArcGis-10b-25.png)
+
+Now anything you do to the group title, such as changing the font size, will affect all of them.
+
+##### 15. On the Draw toolbar, click Rectangle tool.
+
+![](./img/ArcGis-10b-26.png)
+
+##### 16. Draw a rectangle around the title.
+
+![](./img/ArcGis-10b-27.png)
+
+##### 17. Click the fill color arrow, and select the Sahara Sand.
+
+![](./img/ArcGis-10b-28.png)
+
+##### 18. Right-click > Order > Send to Back
+
+![](./img/ArcGis-10b-29.png)
+
+##### 19. Select the title group and the rectangle all together.
+
+![](./img/ArcGis-10b-30.png)
+
+##### 20. Right-click > Align > Align Vertical Center
+
+![](./img/ArcGis-10b-31.png)
+
+##### 21. Right-click > Align > Align Center
+
+##### 22. Right-click > Group
+
+![](./img/ArcGis-10b-32.png)
+
+##### 23. Zoom back to the extent of the full page.
+
+![](./img/ArcGis-10b-33.png)
+
+
+
+
+
 
 
 
