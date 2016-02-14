@@ -48,6 +48,51 @@
 
 ![](./img/ArcGis-11a-15.png)
 
+##### 10. in Ex11aData folder, right-click subwaystops.dbf > Creat Feature Class > From XY Table
+
+![](./img/ArcGis-11a-16.png)
+
+11. X Field --> POINT_X
+Y FEILD --> POINT_Y
+
+![](./img/ArcGis-11a-17.png)
+
+![](./img/ArcGis-11a-18.png)
+
+12. Click Coordinate system of...
+
+![](./img/ArcGis-11a-19.png)
+
+13. Import the coordinate system used by one of the other shapfiles in CityData.gdb
+
+![](./img/ArcGis-11a-20.png)
+
+![](./img/ArcGis-11a-21.png)
+
+14. Click OK. Specify the output as subwaysstops in CityData.gdb
+
+![](./img/ArcGis-11a-22.png)
+
+![](./img/ArcGis-11a-23.png)
+
+![](./img/ArcGis-11a-24.png)
+
+15. Click OK. Then preview the subway stops.
+
+![](./img/ArcGis-11a-25.png)
+
+![](./img/ArcGis-11a-26.png)
+
+![](./img/ArcGis-11a-27.png)
+
+
+
+
+
+
+
+
+
 
 
 
