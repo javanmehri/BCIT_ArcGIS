@@ -46,5 +46,23 @@
 
 ##### 10. In the attribute table, right-click the Acres field name and click Filed Calculator.
 
+![](./img/ArcGis-13c-10.png)
+
+##### 11. If you see a warning about calculating outside an edit session, click Yes to dismiss it. 
+
+![](./img/ArcGis-13c-11.png)
+
+##### 12. In the Fields box of the Field Calculator, double-click Shape_Area to add it to the expression box below. Click the division (/) button. Press the Spacebar, and type 43560. Make sure your dialog box matches the graphic, and then click OK.
+
+![](./img/ArcGis-13c-12-1.png)
+
+![](./img/ArcGis-13c-12-2.png)
+
+##### 13. Close the attribute table. Close the Editor toolbar.
+
+
+
+
+
 
 
