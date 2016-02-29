@@ -65,6 +65,54 @@
 
 ![](./img/ArcGis-13a-19.png)
 
+##### 15. Zoom to the Yorkvill bookmark. Turn on the Neighborhoods layer, turn off all other layers.
+
+![](./img/ArcGis-13a-20.png)
+
+![](./img/ArcGis-13a-21.png)
+
+##### 16. Turn on the Topology toolbar
+
+![](./img/ArcGis-13a-22.png)
+
+##### 17. Click the Select Topology button.
+
+![](./img/ArcGis-13a-23.png)
+
+##### 18. On the Topology dialog box, select the box next to Neighborhoods, and then click OK.
+
+![](./img/ArcGis-13a-24.png)
+
+##### 19. On the Topology toolbar, click the Topology Edit Tool.
+
+![](./img/ArcGis-13a-25.png)
+
+##### 20. Double-click the edge that you see on the image.
+
+![](./img/ArcGis-13a-26.png)
+
+##### 21. On the Topology toolbar, click the Shared Features tool
+
+![](./img/ArcGis-13a-27.png)
+
+##### 22. Click and drag the green vertex as you see in the image.
+
+![](./img/ArcGis-13a-28.png)
+
+##### 23. Drag the red vertex as well
+
+![](./img/ArcGis-13a-29.png)
+
+##### 24. Finish the scetch
+
+![](./img/ArcGis-13a-30.png)
+
+##### 25. Save your edits
+
+![](./img/ArcGis-13a-31.png)
+
+
+
 
 
 
