@@ -52,6 +52,45 @@
 
 ![](./img/ArcGis-13b-12.png)
 
+##### 13. Click the identify tool. Click each of the two new parcels, and examine the Shape_Area values.
+
+![](./img/ArcGis-13b-13-1.png)
+
+![](./img/ArcGis-13b-13-2.png)
+
+##### 14. Close the identify window. Pan slightly to the east, so health areas 6700 and 6300 are in the view.
+
+![](./img/ArcGis-13b-14.png)
+
+##### 15. Active edit tool, and select both area 6300 and area 6700 by holding Shift.
+
+![](./img/ArcGis-13b-15-1.png)
+
+![](./img/ArcGis-13b-15-2.png)
+
+##### 16. Click Editor > Merge. On the Merge dialog box, click 6700, and then click OK.
+
+![](./img/ArcGis-13b-16-1.png)
+
+![](./img/ArcGis-13b-16-2.png)
+
+##### 17. Open the sttribute table for the Health areas layer. Click on Show selected records button of the table to display the selected records.
+
+![](./img/ArcGis-13b-17-1.png)
+
+![](./img/ArcGis-13b-17-2.png)
+
+![](./img/ArcGis-13b-17-3.png)
+
+##### 18. Click Editor > Stop Editing. Click yes to save your edits.
+
+![](./img/ArcGis-13b-18-1.png)
+
+![](./img/ArcGis-13b-18-2.png)
+
+
+
+
 
 
 
