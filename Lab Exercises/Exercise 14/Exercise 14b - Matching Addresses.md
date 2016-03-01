@@ -52,13 +52,15 @@ This point is actually a graphic, not a feature associated with a shapefile.
 
 ##### 10. Click the Select Element tool. Click the graphic to select it.. Press Delete.
 
-![](./img/ArcGis-14b-10-1.png)
-
-![](./img/ArcGis-14b-10-2.png)
+![](./img/ArcGis-14b-10.png)
 
 ##### 11. In the table of contents, make sure the Schools.csv table is highlighed. On the Geocoding toolbar, click the Geocode Addresses tool.
 
-![](./img/ArcGis-14b-11.png)
+![](./img/ArcGis-14b-11-1.png)
+
+![](./img/ArcGis-14b-11-2.png)
+
+On the "Choose an address Locator to use" dialog box, the Philadelphia Schools address locator is highlighted.
 
 ##### 12. Click OK to open the Geocode Addresses dialog box.
 
@@ -66,7 +68,6 @@ This point is actually a graphic, not a feature associated with a shapefile.
 
 ##### 13. Click the Browse button next to the Output shapefile or feature class box.
 
-![](./img/ArcGis-14b-13.png)
 
 ##### 14. On the Saving Data dialog box, browse to MyData folder name the output Geooded_Schools.shp. Make sure the Save as type list is set to Shapefile and click Save.
 
@@ -80,15 +81,22 @@ This point is actually a graphic, not a feature associated with a shapefile.
 
 ##### 16. Close the resulting window.
 
-![](./img/ArcGis-14b-16-1.png)
-
-![](./img/ArcGis-14b-16-2.png)
+![](./img/ArcGis-14b-16.png)
 
 Now you can see the resulted Geocoded layer listed at the top of the table fo contents.
 
 ##### 17. Open the attribute table for the Geocoding Result: Geocoded_Schools layer.
 
-![](./img/ArcGis-14b-17.png)
+![](./img/ArcGis-14b-17-1.png)
+
+![](./img/ArcGis-14b-17-2.png)
+
+The table contains 24 records, one for each address in the Schools table.
+
+The Status attribute tells you whether each address was matched (M), unmatched (U), or tiled (T).
+
+Point geometery is created for records with M only.
+
 
 
 
