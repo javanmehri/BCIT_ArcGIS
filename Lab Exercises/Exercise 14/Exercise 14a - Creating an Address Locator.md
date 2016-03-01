@@ -1,5 +1,14 @@
 # Creating an Address Locator
 
+The process of creating map features from addresses, place-names, and similar information is called **geocoding**.
+
+Geocoding requires:
+- an address table
+- reference data ( To find the location of address points) 
+- an address locator
+
+An address locator is a file that contains the refrence data and various geocoding rules and tolerances (which are defined by an address locator style)
+
 ##### 1.Open the ex14a map document.
 
 ![](./img/ArcGis-14a-01-1.png)
@@ -21,6 +30,8 @@
 ![](./img/ArcGis-14a-04-1.png)
 
 ![](./img/ArcGis-14a-04-2.png)
+
+The attributes in the streets table most closely match the **US Address-Dual Ranges** addresss locator style. 
 
 ##### 5. Open the Catalog window in ArcMap.
 
