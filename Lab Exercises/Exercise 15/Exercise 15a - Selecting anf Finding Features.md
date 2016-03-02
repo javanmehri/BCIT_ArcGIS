@@ -104,6 +104,34 @@ Hyperlinked features are outlined in blue. Pausing the mouse pointer over a feat
 
 ##### 19. Click any hyperlinked feature to display a photograph of the property. 
 
+![](./img/ArcGis-15a-19.png)
+
+Prior to your work in ArcGIS, your coworker suggested that you investigate the average household income of a postal code M4X1C5.
+
+##### 20. Click the Find tool. On the Feature tab, in the Find box, type M4X1C5.
+
+![](./img/ArcGis-15a-20-1.png)
+
+![](./img/ArcGis-15a-20-2.png)
+
+##### 21. Click the "In" arrow and select Cabbagetown Postal Code Areas. Under Search, click the In field option, and then click the arrow below and click POSTALCODE. Then click Find.
+
+![](./img/ArcGis-15a-21-1.png)
+
+![](./img/ArcGis-15a-21-2.png)
+
+##### 22. In the lower portion of the dialog box, right-click M4X1C5 > Identify
+
+![](./img/ArcGis-15a-22-1.png)
+
+![](./img/ArcGis-15a-22-2.png)
+
+##### 23. In the Identify window, scroll down to view the average household income.
+
+![](./img/ArcGis-15a-23.png)
+
+
+
 
 
 
