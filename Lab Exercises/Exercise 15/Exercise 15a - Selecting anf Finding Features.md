@@ -54,6 +54,56 @@ The Add to Current Selection option allows you to click features without the nee
 
 ![](./img/ArcGis-15a-11.png)
 
+##### 12. Open Attribute table of the Cabbagetown Postal Code Areas laye.
+
+![](./img/ArcGis-15a-12-1.png)
+
+![](./img/ArcGis-15a-12-2.png)
+
+##### 13. Click the Show selected records button.
+
+![](./img/ArcGis-15a-13.png)
+
+##### 14. Schroll to the right in the table to see its attributes. Right-click the Total_Hous field name. On the shortcut menu, click Sort Descendind.
+
+![](./img/ArcGis-15a-14.png)
+
+##### 15. Click the gray tab to the left of the first record.
+
+![](./img/ArcGis-15a-15.png)
+
+The record is highlighted in yellow, as is the corresponding map feature.
+
+##### 16. Close the attribute table. On the menu bar, click Selection > Clear Selected Features.
+
+![](./img/ArcGis-15a-16.png)
+
+##### 17. In the table of contents, switch back to the List by Drawing Order view and open the properties of the Cabbagetown Postal Code Areas layer. On the Layer Properties dialog box, click Display tab > Hiperlink frame >
+
+##### select the "Support Hyperlinks using field" check box. 
+
+##### Below the check box, click the field list arrow and click IMAGE. 
+
+##### Below the list, make sure the Document option is selected.
+
+##### Click OK.
+
+![](./img/ArcGis-15a-17-1.png)
+
+![](./img/ArcGis-15a-17-2.png)
+
+![](./img/ArcGis-15a-17-3.png)
+
+##### 18. On the Tools toolbar, click the Hyperlink tool.
+
+![](./img/ArcGis-15a-18-1.png)
+
+Hyperlinked features are outlined in blue. Pausing the mouse pointer over a feature that is hyperlinked displays the path location to the document (in this case, a photo). 
+
+![](./img/ArcGis-15a-18-2.png)
+
+##### 19. Click any hyperlinked feature to display a photograph of the property. 
+
 
 
 
