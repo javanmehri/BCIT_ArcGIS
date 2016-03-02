@@ -45,5 +45,36 @@ In the report, target postal code areas will appear in order from the highest to
 
 ![](./img/ArcGis-15c-08.png)
 
+##### 9. Select Toronto style.
+
+![](./img/ArcGis-15c-09.png)
+
+##### 10. Replace the text in the title box with ...
+##### Make sure the "Preview the report" option is selected and click Finish.
+
+![](./img/ArcGis-15c-10.png)
+
+##### 11. In the uper-left corner of the Report Viewer window, click the Edit button.
+
+![](./img/ArcGis-15c-11.png)
+
+##### 12. Click the AvgHHlncom pageHeader component.
+
+![](./img/ArcGis-15c-12.png)
+
+##### 13. Change the Alignment to Right
+
+![](./img/ArcGis-15c-13.png)
+
+##### 14. Repeat the same right alignment for the VACATRAV and V_G1000 pageHeader component. Then, click the Run Report button.
+
+![](./img/ArcGis-15c-14-1.png)
+
+![](./img/ArcGis-15c-14-2.png)
+
+
+
+
+
 
 
