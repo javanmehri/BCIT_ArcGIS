@@ -65,4 +65,19 @@ You can see that tge parcels that intersect the flood zone are selected, even ev
 
 ![](./img/ArcGis-16a-10.png)
 
+##### 11. Click Apply.
+
+![](./img/ArcGis-16a-11.png)
+
+##### 12. For the spatial selection method, click the arrow, schroll to the bottom of the list, and click "have their centroid in the source layer feature."
+
+This will weed out the parcels that have only a small part of land in the danger zone.
+
+![](./img/ArcGis-16a-12.png)
+
+##### 13. Clear the "Apply a search distance" check box. Click Apply.
+
+![](./img/ArcGis-16a-13.png)
+
+
 
