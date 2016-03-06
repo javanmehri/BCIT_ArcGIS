@@ -96,6 +96,49 @@ To the right of Shape_Area are the fields from the FoodDesert table, which are s
 
 ![](./img/ArcGis-17a-22.png)
 
+##### 23. Use the knowledge you gained in chapter 15 to perform a Select By Attributes query using this SQL statement:
+
+##### "Data$.TRACT_FIPS" IS NOT NULL
+
+![](./img/ArcGis-17a-23.png)
+
+##### 24. Apply the selection, and then close the Select By Attributes dialog box. Show only the selected records in the attribute table.
+
+![](./img/ArcGis-17a-24-1.png)
+
+![](./img/ArcGis-17a-24-2.png)
+
+##### 25. Move the table out of the way so you can see the map display. The selected records are also selected on the map.
+
+![](./img/ArcGis-17a-25.png)
+
+##### 26. Close the table. Tracts will remain selected on the map.
+
+##### 27. In the table of contents, right-click Wisconsin Census Tracts and click Data > Export Data. 
+
+![](./img/ArcGis-17a-27.png)
+
+##### 28. For the output location, browse to your MyData folder for chapter 17. Click the save as type arrow and click File and Personal Geodatabase feature classes. Double-click MyWisconsin.gdb, and for Name, type FoodDeserts. Click Save.
+
+![](./img/ArcGis-17a-28-1.png)
+
+![](./img/ArcGis-17a-28-2.png)
+
+![](./img/ArcGis-17a-28-3.png)
+
+##### 29. Click OK to export the data. When the operation is complete, click Yes to add the new layer to the map.
+
+![](./img/ArcGis-17a-29-1.png)
+
+![](./img/ArcGis-17a-29-2.png)
+
+##### 30. Clear the selected features. Change the table of contents to the Drawing Order view, and change the name of the new layer to Wisconsin Food Deserts.
+
+![](./img/ArcGis-17a-30-1.png)
+
+![](./img/ArcGis-17a-30-2.png)
+
+
 
 
 
