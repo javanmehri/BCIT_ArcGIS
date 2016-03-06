@@ -6,45 +6,45 @@ In this exercise we will examine the Food Access Research Atlas, a study to iden
 
 http://www.ers.usda.gov/data-products/food-access-research-atlas.aspx
 
-![](./img/ArcGis-17a-01)
+![](./img/ArcGis-17a-01.png)
 
 ##### 2. Under Overview, read about the atlas, and then click "Enter the Map". 
 
-![](./img/ArcGis-17a-02)
+![](./img/ArcGis-17a-02.png)
 
 ##### 3. Click any green square. scroll through the pop-up box and notice the information that is provided.
 
-![](./img/ArcGis-17a-03)
+![](./img/ArcGis-17a-03.png)
 
 ##### 4. Above the map, click the About the Atlas link. Read the section titled "Overview" and "Measures of food access."
 
-![](./img/ArcGis-17a-04-1)
+![](./img/ArcGis-17a-04-1.png)
 
-![](./img/ArcGis-17a-04-2)
+![](./img/ArcGis-17a-04-2.png)
 
 Next, you will learn how to create a similar map using an ERS dataset, limiting the study area to the state of Wisconsin.
 
 ##### 5. Open the ex17a map document.
 
-![](./img/ArcGis-17a-05)
+![](./img/ArcGis-17a-05.png)
 
 ##### 6. Open the attribute of Wisconsin census tracts and examine the information. Notice the FIPS_TRACT field.
 
 FIPS_TRACT --> a unique identification number for each census tract record.
 
-![](./img/ArcGis-17a-06)
+![](./img/ArcGis-17a-06.png)
 
 ##### 7. Close the table.
 
 ##### 8. Start Excel and open FoodDesert_Data.xls from Data Folder.
 
-![](./img/ArcGis-17a-08)
+![](./img/ArcGis-17a-08.png)
 
 ##### 9. Scroll down through the rows of Data. Notice that the spreadsheet indicates data for all 48 continental states. (Hawaii and Alaska weren't included in the study.)
 
 ##### 10. Scroll back to the top of the spreasheet. Now scroll across and examine the column headings. To decipher the abbreviations, click the variable_lookup tab at the bottom of the spreadsheet and read the variable descriptions.
 
-![](./img/ArcGis-17a-10)
+![](./img/ArcGis-17a-10.png)
 
 
 
