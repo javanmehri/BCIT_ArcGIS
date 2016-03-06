@@ -46,6 +46,32 @@ FIPS_TRACT --> a unique identification number for each census tract record.
 
 ![](./img/ArcGis-17a-10.png)
 
+##### 11. Minimize Excel. In ArcMap, click the Add Data button. Navigate to Data folder, double-click FoodDesert_Data.xls, and click Data$. Then click Add.
+
+![](./img/ArcGis-17a-11-1.png)
+
+![](./img/ArcGis-17a-11-2.png)
+
+##### 12. In the table of contents, right-click the Data$ table and click Open.
+
+##### 13. Scroll down to find the data records for Wisconsin (Wl in the State). Notice that there are several tracts per county.
+
+![](./img/ArcGis-17a-13.png)
+
+##### 14. Right-click TRACT_FIPS, and on the shortcut menu, click Freeze/Unfreeze Column. Scroll all the way to the right.
+
+![](./img/ArcGis-17a-14-1.png)
+
+![](./img/ArcGis-17a-14-2.png)
+
+For each record in the Wisconsin census tracts table, there is no more than one matching record in the FoodDesert_Data table, thus making a good choice for a join operation.
+
+##### 15. Close the table. In the ArcMap table of contents, right-click Wisconsin Census Tracts > Joins and Relates > Join.
+
+![](./img/ArcGis-17a-15.png)
+
+
+
 
 
 
