@@ -70,6 +70,33 @@ For each record in the Wisconsin census tracts table, there is no more than one 
 
 ![](./img/ArcGis-17a-15.png)
 
+##### 16. In the first drop-down list, make sure "Join attributes from a table" is selected. In the first entry box, select FIPS_TRACT.
+
+##### 17. In the second entry box, make sure the Data$ table is selected. In the box 3, make sure the TRACT_FIPS field is selected.
+
+##### 18. In the Join Options selection, you want to keep all the records.
+
+![](./img/ArcGis-17a-18.png)
+
+##### 19. Click OK, to run the join operation.
+
+##### 20. Open the attribute table of the Wiscosin Census Tracts layer. Scroll to the right until you see the shape_area field.
+
+![](./img/ArcGis-17a-20.png)
+
+To the right of Shape_Area are the fields from the FoodDesert table, which are shown using field aliases. Field aloases are a more user-friendly description of the content of the field.
+
+##### 21. Turn off the field aliases by clicking the Table Options button, and then click Show Field Aliases to cler the selection.
+
+![](./img/ArcGis-17a-21-1.png)
+
+![](./img/ArcGis-17a-21-2.png)
+
+##### 22. Resize the Data$.TRACT_FIPS field to see its entire name.
+
+![](./img/ArcGis-17a-22.png)
+
+
 
 
 
