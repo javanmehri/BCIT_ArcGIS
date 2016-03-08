@@ -55,5 +55,72 @@ The Count field - which tallies all join features within each target feature - w
 
 ![](./img/ArcGis-17c-10.png)
 
+##### 11. Close ArcToolbox. Then move the Wisconsin Food Deserts layer to the top of the drawing order in the table of contents.
+
+![](./img/ArcGis-17c-11.png)
+
+##### 12. Open the attribute table of CountyStats. Notice the Join_Count field. Sort it by ascending order.
+
+![](./img/ArcGis-17c-12.png)
+
+##### 13. Scroll through the rows and note how many food deserts are in each county.
+
+So you now have attribute from counties, census tracts data, and the food desert research all within one table.
+
+##### 14. Scroll to the right. Notice that the counties that have Join_Count value of 0 have null values for census tract data and food desert data. If you select one of these rows, you can see on the map that the county has no food deserts.
+
+![](./img/ArcGis-17c-14.png)
+
+##### 15. Scroll farther to the right. The food desert attributes you are interested in begin with TOTALPOP (toal number of people who live in food deserts in each county). Sort the TOTALPOP field by descending order, and then scroll to the top of the table.
+
+![](./img/ArcGis-17c-15.png)
+
+##### 16. Examine the other food desert attributes.
+
+##### 17. Close the table and clear any selections. Open the layer properties of CountyStats and click the Symbology tab.
+
+![](./img/ArcGis-17c-17.png)
+
+##### 18. Click Quantities > Graduated colors > Fields
+##### Value --> LOWA_POP
+
+##### 19. In the Classification frame, click Classify
+
+![](./img/ArcGis-17c-19.png)
+
+##### 20. On the Classification dialog box, in the Data Exclusion frame, click Exclusion.
+##### On the Data Exclusion Properties dialog box, on the query tab, build the following query: LOWA_POP IS NULL.
+
+![](./img/ArcGis-17c-20-1.png)
+
+![](./img/ArcGis-17c-20-2.png)
+
+##### 21. Next, click the Legend tab. Select "Show symbol for excluded data" check box, and set the symbol color to white. For Lable, type No food deserts.
+
+![](./img/ArcGis-17c-21.png)
+
+##### 22. Click OK to close the Data Exclusion Properties dialog box, and then click OK again to close the classification dialog box.
+
+##### 23. Back on the Symbology tab, above the center panel, click the Lable tab and click Format Labels.
+
+![](./img/ArcGis-17c-23.png)
+
+##### 24. Change the number of decimal places to 1 and click OK.
+
+![](./img/ArcGis-17c-24.png)
+
+##### 25. Finaly click Ok on the layer Properties dialog box to apply the changes.
+
+##### 26. Turn off Wisconsin Food Deserts. Rename CountyStats Low Access Population and rename the legend Total by County.
+
+![](./img/ArcGis-17c-26.png)
+
+
+
+
+
+
+
+
 
 
