@@ -64,4 +64,58 @@ The Oregon Forest Analysis toolbox is automatically added and alphabetized with 
 
 ![](./img/ArcGis-18d-14.png)
 
+##### 15. Drag the Populated Jurisdictions layer to the model window and drop it directly on top of the Clip tool rectangle. A shortcut menu appears. Click Input Features.
+
+![](./img/ArcGis-18d-15-1.png)
+
+![](./img/ArcGis-18d-15-2.png)
+
+##### 16. Drag the CountyWarningAreas selection layer to the model window and drop it directly on top of the Clip tool rectangle. A shortcut menu appears. Click Clip Features.
+
+![](./img/ArcGis-18d-16-1.png)
+
+![](./img/ArcGis-18d-16-2.png)
+
+##### 17. Drag the CountyWarningAreas selection element to a position below the Populated Jurisdictions element so you can see both inputs.
+
+![](./img/ArcGis-18d-17.png)
+
+##### 18. Double-click the output element in the model currently labeled as populated_juristictions_Clip. In the resulting window, click the Browse button and navigate to the contents of MyOregonForest.gdb in your MyData folder for chapter 18. In the Name box, type PortlandPopJurs, and then click Save.
+
+![](./img/ArcGis-18d-18-1.png)
+
+![](./img/ArcGis-18d-18-2.png)
+
+##### 19. Click OK to close the dialog box.
+
+![](./img/ArcGis-18d-19-1.png)
+
+![](./img/ArcGis-18d-19-2.png)
+
+##### 20. Right-click the PortlandPopJurs output oval and click Add To Display so it will be turned on in the table of contents.
+
+![](./img/ArcGis-18d-20.png)
+
+##### 21. On the ModeBuilder toolbar, click the Run button to run the model.
+
+![](./img/ArcGis-18d-21-1.png)
+
+![](./img/ArcGis-18d-21-2.png)
+
+##### 22. Close the progress report. Notice that after a process runs, drop shadows appear behind the model elements.
+
+![](./img/ArcGis-18d-22.png)
+
+The PortlandPopJurs layer is added to ArcMap.
+
+##### 23. Turn off the Populated Jurisdictions layer. Open the PortlandPopJurs layer properties and change the symbology to match the orange color of the Populated Jurisdictions layer.
+
+![](./img/ArcGis-18d-23.png)
+
+##### 24. Save the model.
+
+![](./img/ArcGis-18d-24.png)
+
+
+
 
