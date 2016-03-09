@@ -50,4 +50,18 @@ The Oregon Forest Analysis toolbox is automatically added and alphabetized with 
 
 ##### 11. Close or hide the Catalog window, since it will no longer be needed.
 
-##### 12. 
+##### 12. In the ArcToolbox window, click the plus sign (+) next to Oregon Forest Analysis to expand its contents. Right-click the Forest Analysis model and click Edit. 
+
+![](./img/ArcGis-18d-12-1.png)
+
+![](./img/ArcGis-18d-12-2.png)
+
+##### 13. In the ArcToolbox window, expand the Analysis Tools > Extract toolset.
+
+![](./img/ArcGis-18d-13.png)
+
+##### 14. Click the Clip tool and drag it to the center of the model window.
+
+![](./img/ArcGis-18d-14.png)
+
+
