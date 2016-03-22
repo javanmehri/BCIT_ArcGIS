@@ -36,6 +36,21 @@ Notice the layer description and source redits.
 
 ![](./img/ArcGis-05b-10.png)
 
+##### 11. Click ArcGIS Online again. In the search box, type Chicago bike racks by ward, and press Enter. In the search results, click the Details link to see a short description of it.
+
+![](./img/ArcGis-05b-11.png)
+
+##### 12. Click Add button.
+
+![](./img/ArcGis-05b-12.png)
+
+##### 13. Click the Zoom in tool and draw a rectangle around the downtown portion of chicago.
+
+![](./img/ArcGis-05b-13-1.png)
+
+![](./img/ArcGis-05b-13-2.png)
+
+
 
 
 
