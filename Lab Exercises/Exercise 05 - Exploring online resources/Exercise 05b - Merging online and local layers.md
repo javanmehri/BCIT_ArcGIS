@@ -4,29 +4,29 @@
 
 ##### 2. On the menu bar, click File > Sign In.
 
-![](./IMG/ArcGis-05b-02-1.png)
+![](./img/ArcGis-05b-02-1.png)
 
-![](./IMG/ArcGis-05b-02-2.png)
+![](./img/ArcGis-05b-02-2.png)
 
 ##### 3. Enter your public account user name and password, and click Sign In.
 
 ##### 4. Click File > ArcGIS Online.
 
-![](./IMG/ArcGis-05b-04.png)
+![](./img/ArcGis-05b-04.png)
 
 ##### 5. In the Search box, type Chicago Topo Map, and press Enter.
 
 ##### 6. In the returned maps, locate the one titled Chicago Topo Map, and click the Details link.
 
-![](./IMG/ArcGis-05b-06.png)
+![](./img/ArcGis-05b-06.png)
 
 ##### 7. In the Description panel, click Open. If ArcMap asks you to save your untitled map, click No.
 
-![](./IMG/ArcGis-05b-07.png)
+![](./img/ArcGis-05b-07.png)
 
 ##### 8. Access the World_Topo_Map layer properties.
 
-![](./IMG/ArcGis-05b-08.png)
+![](./img/ArcGis-05b-08.png)
 
 Notice the layer description and source redits.
 
@@ -34,7 +34,7 @@ Notice the layer description and source redits.
 
 ##### 10. Zoome out until the map scale is 1:450,000.
 
-![](./IMG/ArcGis-05b-10.png)
+![](./img/ArcGis-05b-10.png)
 
 
 
